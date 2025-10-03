@@ -7,7 +7,7 @@ kalimat.innerHTML = "";pesanAkhir.innerHTML="";
 
 const box = document.getElementById('pergeseran');
 const directChildren = box.children.length;
-console.log('@giftvirtual');
+console.log('@manda');
 console.log('Total Slide: ', directChildren);
 totalPesan = directChildren;
 
